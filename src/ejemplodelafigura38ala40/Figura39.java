@@ -35,8 +35,7 @@ public class Figura39 {
         map1.put("Teresa", "7951-9654");
         map1.put("Amanda", "6051-9654");
         map1.put("Jaime", "2451-9654");
-        map1.put("Jaime", "7548-9654"); // no será agregado
-
+        map1.put("Jaime", "7548-9654");
         Iterator it1 = map1.keySet().iterator();
 
         while (it1.hasNext()) {
